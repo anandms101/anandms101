@@ -1,5 +1,3 @@
-[![anandms.com](https://www.anandms.com/opengraph-image)](https://www.anandms.com)
-
 Hi, I'm Anand. I'm a software engineer at Microsoft in the Office of the CTO, working on the services behind agentic AI features in Microsoft 365. Most of what I do sits under the product: latency budgets, failure handling, identity, and the platform that ships it.
 
 Before Microsoft I was a co-op at Kyndryl, working on an API gateway, single sign-on across a set of Java services, and a recommendation service built on retrieval. I spent three years before that at Oracle on enterprise integrations, identity and support tooling. MS in Computer Science, Northeastern.
